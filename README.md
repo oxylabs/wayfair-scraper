@@ -57,7 +57,7 @@ response = requests.request(
 pprint(response.json())
 ```
 
-Code examples for other languages can be found [**here.**](https://github.com/oxylabs/wayfair-scraper/tree/main/code%20examples)
+Code examples for other languages can be found [**here.**](https://github.com/oxylabs/wayfair-scraper/tree/main/code%20examples/URL)
 
 ### Search
 
@@ -106,4 +106,4 @@ response = requests.request(
 # Print prettified response to stdout.
 pprint(response.json())
 ```
-Code examples for other languages can be found [**here.**](https://github.com/oxylabs/wayfair-scraper/tree/main/code%20examples)
+Code examples for other languages can be found [**here.**](https://github.com/oxylabs/wayfair-scraper/tree/main/code%20examples/Search)
