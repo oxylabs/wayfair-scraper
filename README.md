@@ -1,5 +1,5 @@
 # Wayfair Scraper
-asdasd
+
 ### How it works
 
 There are two approaches to retrieving data from Wayfair using our Scraper API. You can give us a full [**URL**](#url) or pass parameters via the specifically built data source - [**Search**](#search)**.**
