@@ -1,5 +1,7 @@
 # Wayfair Scraper
 
+Gather data from Wayfair effortlessly and in real-time with Oxylabs Wayfair Scraper solution. The simple, explanatory, and brief guide below shows how the Wayfair Scraper works. At the same time, it provides specific code examples that will help you understand and use the scraper hassle-free.
+
 ### How it works
 
 There are two approaches to retrieving data from Wayfair using our Scraper API. You can give us a full [**URL**](#url) or pass parameters via the specifically built data source - [**Search**](#search)**.**
@@ -107,3 +109,7 @@ response = requests.request(
 pprint(response.json())
 ```
 Code examples for other languages can be found [**here.**](https://github.com/oxylabs/wayfair-scraper/tree/main/code%20examples/Search)
+
+The code above shows how you can extract data easily with our Wayfair Scraper. Collect specific product information that can range from prices to descriptions and other features, allowing you to make detailed comparisons/calculations with whom you can gain your competitive advantage.
+
+If you have any questions, you can always contact us at hello@oxylabs.io. or via live chat on our website.
