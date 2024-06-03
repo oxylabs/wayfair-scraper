@@ -3,7 +3,7 @@ import fetch from 'node-fetch';
 const username = 'YOUR_USERNAME';
 const password = 'YOUR_PASSWORD';
 const body = {
-  'source': 'wayfair',
+  'source': 'universal_ecommerce',
   'url': 'https://www.wayfair.com/keyword.php?keyword=sofa',
   'parse': true
 };
