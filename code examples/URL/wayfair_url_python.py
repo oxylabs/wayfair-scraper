@@ -3,7 +3,7 @@ from pprint import pprint
 
 # Structure payload.
 payload = {
-    'source': 'wayfair',
+    'source': 'universal_ecommerce',
     'url': 'https://www.wayfair.com/keyword.php?keyword=sofa'
 }
 
