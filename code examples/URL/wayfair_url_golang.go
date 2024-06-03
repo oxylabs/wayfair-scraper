@@ -13,7 +13,7 @@ func main() {
 	const Password = "YOUR_PASSWORD"
 
 	payload := map[string]string{
-		"source": "wayfair",
+		"source": "universal_ecommerce",
 		"url": "https://www.wayfair.com/keyword.php?keyword=sofa",
 	}
 
