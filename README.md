@@ -12,7 +12,7 @@ To retrieve data from Wayfair, provide us a full URL of your target page.
 
 The `universal_ecommerce` source is designed to retrieve content from various Wayfair URLs. Instead of sending multiple parameters, you can provide us with a direct URL to your preferred Wayfair page. We do not strip any parameters or alter your URLs in any other way.
 
-This data source also supports parsed data (structured data in JSON format), as long as the URL submitted is for Wayfair Search (SERP page). If we cannot confirm this is a SERP page request, a failure message will be returned.
+This data source also supports parsed data (structured data in JSON format) as long as the URL submitted is for Wayfair Search (SERP page). If we cannot confirm this is a SERP page request, a failure message will be returned.
 
 #### Query parameters
 
