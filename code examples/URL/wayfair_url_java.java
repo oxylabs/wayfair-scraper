@@ -8,7 +8,7 @@ public class Main implements Runnable {
 
     public void run() {
         JSONObject jsonObject = new JSONObject();
-        jsonObject.put("source", "wayfair");
+        jsonObject.put("source", "universal_ecommerce");
         jsonObject.put("url", "https://www.wayfair.com/keyword.php?keyword=sofa");
 
         Authenticator authenticator = (route, response) -> {
