@@ -1,7 +1,7 @@
 <?php
 
 $params = array(
-    'source' => 'wayfair',
+    'source' => 'universal_ecommerce',
     'url' => 'https://www.wayfair.com/keyword.php?keyword=sofa'
 );
 
