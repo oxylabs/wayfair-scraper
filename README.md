@@ -8,7 +8,7 @@ Gather data from Wayfair effortlessly and in real-time with Oxylabs [Wayfair Scr
 
 ### How it works
 
-To retrieve data from Wayfair, provide us a full URL of your target page.                                                 |
+To retrieve data from Wayfair, provide us a full URL of your target page.
 
 The `universal_ecommerce` source is designed to retrieve content from various Wayfair URLs. Instead of sending multiple parameters, you can provide us with a direct URL to your preferred Wayfair page. We do not strip any parameters or alter your URLs in any other way.
 
