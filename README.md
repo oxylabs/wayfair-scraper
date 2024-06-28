@@ -18,10 +18,10 @@ This data source also supports parsed data (structured data in JSON format) as l
 
 | Parameter                                                 | Description                                                                                                                                    | Default Value |
 | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| <mark style="background-color:green;">**`source`**</mark> | Data source. [**More info**](https://developers.oxylabs.io/scraper-apis/getting-started/api-reference/global-parameter-values#source).                                              | `universal_ecommerce`     |
+| <mark style="background-color:green;">**`source`**</mark> | Data source.                                             | `universal_ecommerce`     |
 | <mark style="background-color:green;">**`url`**</mark>    | Direct URL (link) to Wayfair page                                                                                                              | -             |
-| `user_agent_type`                                         | Device type and browser. The full list can be found [**here**](https://developers.oxylabs.io/scraper-apis/getting-started/api-reference/global-parameter-values#user_agent_type). | `desktop`     |
-| `callback_url`                                            | URL to your callback endpoint. [**More info.**](https://developers.oxylabs.io/scraper-apis/getting-started/api-reference/global-parameter-values#callback_url)                     | -             |
+| `user_agent_type`                                         | Device type and browser. The full list can be found [**here**](https://developers.oxylabs.io/scraper-apis/e-commerce-scraper-api/features/user-agent-type). | `desktop`     |
+| `callback_url`                                            | URL to your callback endpoint. [**More info.**](https://developers.oxylabs.io/scraper-apis/e-commerce-scraper-api/integration-methods/push-pull#callback)                     | -             |
 
 &#x20;   <mark style="background-color:green;"></mark> - required parameter
 
